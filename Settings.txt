@@ -1,0 +1,23 @@
+# COIN98-V2 settings file created by Abbas Bachari!
+
+# ACTION SETTING:
+# Mining Coin One of : BTC, BCH, DOGE, LTC, ZEC
+MINING COIN              = DOGE
+VISIT SITE                  =  YES
+JOIN CHANNEL        = YES
+MESSEGEING BOT = YES
+DELETE BOT            = YES
+DELETE CHANNEL = YES
+
+# LOOP SETTING:
+AUTO LOOP      = YES
+LOOP TIME      = 01:00:00
+
+# WITHDRAW SETTING:
+AUTO WITHDRAW  = YES
+WALLET BTC     =  3LuZLnYib93iMewqnezi8HSa2ohp65u5wV
+WALLET BCH     =  qpwvpc3fw90quylua0wrz6tp7ktmmah4kgdxvlmr4y
+WALLET LTC      =  MG7DntYV8jay38ufta9GzPFoXKkWq5yTBM
+WALLET DOGE  =  DNmG4QDo7KakGWfqidEjieWkDdqVezTK1y
+WALLET ZEC      =  t1eeuSGsPHeykzZS4gyUY5opzarwb7b2uqo
+WALLET TRX      =  TDzHRicwX1or2SdmYSn1BLEzWeyK21dw65
